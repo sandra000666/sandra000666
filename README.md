@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Sandra!
 
-<!--
-**sandra000666/sandra000666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring IT Professional | Python Developer
 
-Here are some ideas to get you started:
+I'm an IT fresher passionate about programming, technology, and learning new skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python and Web Development.
+
+💻 **My Project**
+- InterviewIQ – An AI-powered programming interview practice application built using Python, Flask, and Ollama.
+
+🛠️ **Technical Skills**
+- Programming: C, C++, Python, Java
+- Web: HTML, CSS, JavaScript, PHP
+- Database: MySQL
+- Framework: Flask
+- Tools: Git, GitHub, Ollama
+
+🎯 **My Goal**
+To improve my technical skills and grow as a software developer.
+
+📫 **GitHub:** [@sandra000666](https://github.com/sandra000666)
